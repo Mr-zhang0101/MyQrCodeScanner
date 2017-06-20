@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyQrCodeScanner</string>
+    <string name="main_btn">扫一扫</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="scan_text">请将二维码置于扫描框内开始扫描</string>
+    <string name="language_text">当前解码语言：</string>
+</resources>
